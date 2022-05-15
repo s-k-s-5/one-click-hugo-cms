@@ -1,5 +1,7 @@
+---
 title: The First post 
-date: 
+date: 2020-05-15
+---
 # The First Post 
 
 I am trying to learn how to post from Github and use this Netlify, Hugo, Github combination. 
